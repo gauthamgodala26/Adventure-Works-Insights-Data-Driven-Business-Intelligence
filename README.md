@@ -1,4 +1,7 @@
 #  Adventure Works – Power BI Dashboard
+LINK TO POWER BI FILE:https://drive.google.com/file/d/1Vo7cQAPaCw7561c9MbnhiLBoOfdhAobt/view?usp=sharing
+
+
  **Problem Statement**:
 
 In today’s fast-paced business environment, data-driven decision-making is the key to success—yet most organizations struggle with disconnected data, sluggish reporting, and poor visibility into critical business metrics. Without a centralized, real-time analytics solution, businesses face:
